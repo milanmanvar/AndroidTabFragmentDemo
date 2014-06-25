@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTabFragmentDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+       <!-- Tab -->
+    <string name="tab_organize">Organize</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_my_plans">My plans</string>
+    <string name="tab_chats">Chats</string>
+
+</resources>
